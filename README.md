@@ -17,3 +17,14 @@ df.shape[0]
 ```
 df.shape[1]
 ```
+
+## **Print the first x rows:**
+
+```
+df.head(x)
+```
+## **Print the last x rows:**
+
+```
+df.tail(x)
+```
