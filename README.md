@@ -1,18 +1,18 @@
 # **Pandas Functions**
 
-## **Criar df:** 
+## **Create df:** 
 
 ```
-pd.DataFrame(Conteudo,columns=["coluna1","coluna2"])
+pd.DataFrame(Content,columns=["column1","column2"])
 ```
 
-## **Número de linhas:**
+## **Number of Rows:**
 
 ```
 df.shape[0]
 ```
 
-## **Número de Colunas:**
+## **Number of Columns:**
 
 ```
 df.shape[1]
