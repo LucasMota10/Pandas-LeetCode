@@ -39,3 +39,9 @@ df.loc[df["Column Name"] < x]
 df.loc[df["Column Name"] >= x]
 df.loc[df["Column Name"] <= x]
 ```
+
+## **Create a New Column:**
+
+```
+df["New Column"] = Value
+```
