@@ -28,3 +28,14 @@ df.head(x)
 ```
 df.tail(x)
 ```
+
+## **Select a row by a Value:**
+
+```
+df.loc[df["Column Name"] == x]
+df.loc[df["Column Name"] != x]
+df.loc[df["Column Name"] > x]
+df.loc[df["Column Name"] < x]
+df.loc[df["Column Name"] >= x]
+df.loc[df["Column Name"] <= x]
+```
