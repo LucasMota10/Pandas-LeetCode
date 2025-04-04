@@ -45,3 +45,9 @@ df.loc[df["Column Name"] <= x]
 ```
 df["New Column"] = Value
 ```
+
+## **Drop Duplicate Rows:**
+
+```
+df.drop_duplicates("Column Name", keep="first/last/false")
+```
